@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @Jasdonza
-- 👀 I’m interested in [][][][][][][][][][][]
+- 👀 I’m interested in [][][][][][][] [][][][]
 - 🌱 I’m currently learning 0.0000000000000% of the universe
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me - get to the moon and build a satlight dish
+- 💞️ I’m looking to collaborate on a object that can exists
+- 📫 How to reach me - Get to the moon, and from the Mare Vaporum and build a satellite dish, then point it at lat 32.715293, long -110.225365. From there, you'll know what to do.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: gold is 20 times denser that ducks.
-
-<!---
-Jasdonza/Jasdonza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: gold is 20 times denser than ducks.
