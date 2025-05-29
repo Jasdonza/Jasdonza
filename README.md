@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on a object that can exist
 - 📫 How to reach me - Get to the moon, and from the Mare Vaporum and build a satellite dish, then point it at lat 32.715293, long -110.225365. From there, you'll know what to do.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: According to scientists space is big, and nobody lives there.
+- ⚡ Fun fact: According to scientists, space is big, and nobody lives there.
